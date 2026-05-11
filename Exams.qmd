@@ -1,0 +1,22 @@
+---
+title: "Exams"
+format: docx
+---
+
+## M.Phil (Morning)
+
+Q#1 Show that the regressioin $R^2$ in the regression of $Y$ on $X$ is the squared value of the sample correlation between $X$ and $Y\$ , That is, show that $R^2= r^2_{xy}$.
+
+Q#2 A researcher estimates $AR(1)$ with an intercept and finds that the OLS estimate of $\beta_1$ is 0.95 with a standard error of 0.02. Does a $95\%$ confidence interval include $\beta_1=1$? Explain. Tabulated value for $z$ is 1.96.
+
+## MPhil Evening
+
+Q#1 Define *homoskedasticity* and *heteroskedasticity*. Provide a hypothetical empirical example in which you think the errors would be heteroskedastic and explain your reasoning.
+
+Q# 2 One of your friends is using data on individuals to study the determinants of smoking at your university. He asks you whether he should use probit, logit , or linear probability model. What advice do you give her? Why?
+
+## PhD
+
+Q#1 A "Cobb-Douglas" production function relates production ($Q$) to factors of production, capital ($K$), labor($L$), and raw materials ($M$), and an error term $u$ using the equation $Q=\lambda K^{\beta_1}L^{\beta_2}M^{\beta_3}e^{u}$ , where $\lambda$, $\beta_1$, $\beta_2$ and $\beta_3$ are production parameters. Suppose you have data on production and the factors of production from a random sample of firms with the same Cobb-Douglas production function. How would you use regression analysis to estimate the production parameters?
+
+Q#2 Many financial economists believe that the random walk models is a good description of the logarithm of stock prices. It implies that the percentage changes in stock prices are unforecastable. A financial analyst claims to have a new model that makes better predictions that the random walk model. Explain how you would examine the analysts's claim that his model is superior.
