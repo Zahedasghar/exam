@@ -1,0 +1,209 @@
+---
+title: "Urban Economics Mid-Term Exam"
+subtitle: "QAU School of Economics"
+author: "Dr. Zahid Asghar"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: cosmo
+    css: styles.css
+---
+
+## Instructions
+
+This exam covers urban economics principles from:
+
+- Polèse's Five Principles of Urban Economics
+- Brueckner's Urban Economics textbook (Chapters 1-2)
+- "Plots Without Houses" (Asghar 2025)
+
+**Exam Structure:**
+- Multiple choice questions
+- Short answer questions
+- Numerical problems
+
+---
+
+## Part A: Five Principles (Polèse)
+
+### Question 1
+**The Erie Canal connects the Hudson River headwaters to Lake Erie — hundreds of miles from New York City — yet its construction permanently sealed New York's position as America's largest city. What principle does this illustrate?**
+
+a) Urban hierarchies are self-perpetuating — New York's dominance was inevitable regardless of the canal  
+b) **Pivotal connectivity infrastructure need not be located within the city itself to fundamentally transform its market access and growth path** ✓  
+c) Human capital attracted by canal-related manufacturing explains New York's rise  
+d) Government subsidies to transportation are the primary determinant of long-run urban success
+
+**Explanation:** The Erie Canal was built between the headwaters of the Hudson River and Lake Erie — hundreds of miles from New York City — yet it gave New York access to the continental interior and cemented its position as America's largest city. The lesson: connectivity-altering infrastructure can be geographically remote and still reshape a city's growth path, because market access is what matters, not proximity to the infrastructure itself.
+
+---
+
+### Question 2
+**The decline of steel cities — Pittsburgh, Birmingham, Essen — illustrates what essential lesson about urban specialisation?**
+
+a) Large cities are more vulnerable than small ones because the implosion of capital-intensive industries is more severe  
+b) **Highly specialised urban economies are especially vulnerable to technological disruption, no matter how dominant or high-tech the star industry appears at its peak** ✓  
+c) Only cities with poor institutional governance experience severe industrial decline  
+d) Steel cities declined due to labour union militancy, not technological change
+
+**Explanation:** When steel production technology changed and other metals entered the market, the economic base of entire specialised cities eroded. The general lesson: the more highly specialised a city's economy, the more vulnerable it is. This applies equally to 'hip' or high-tech industries — any single-industry city carries concentration risk regardless of how ascendant the sector appears.
+
+---
+
+### Question 3
+**Why do cities face particularly fierce competition for mobile resources — talent, entrepreneurial spirit, and investment — compared with nation-states?**
+
+a) Cities have larger public budgets than most nations for attracting mobile capital  
+b) Cities have fewer barriers to entry than nations, making factor mobility near-complete  
+c) **It is far easier to move a residence or business to a nearby city than to relocate to another country, making inter-city mobility far higher than inter-national mobility** ✓  
+d) Urban governments can unilaterally cut national income taxes to retain high earners
+
+**Explanation:** The low barriers to intra-national relocation make inter-city competition for skilled workers and entrepreneurs far more intense than inter-national competition. This is why the scholarly literature focuses on location advantages and agglomeration economies — factors largely beyond any individual city's policy control — rather than local levers, which are circumscribed by national governments that set the policies that most significantly affect urban economies.
+
+---
+
+## Part B: Chapter 1 — Why Cities Exist (Brueckner)
+
+### Question 4
+**What is the fundamental distinction between scale economies and agglomeration economies as city-forming forces?**
+
+a) Scale economies are external to firms; agglomeration economies are internal to individual firms  
+b) **Scale economies are internal to a single establishment, arising from division of labour at larger scales; agglomeration economies are external benefits a firm gains by locating near other firms** ✓  
+c) Scale economies apply only to manufacturing while agglomeration economies apply only to knowledge industries  
+d) Scale economies require government intervention; agglomeration economies arise spontaneously without policy support
+
+**Explanation:** Scale economies operate within a single firm: output per worker rises at larger scales due to division of labour. Agglomeration economies are external to the individual firm: a business benefits from locating near other enterprises — through lower input costs (pecuniary economies) or higher productivity (technological economies). Both forces drive the spatial concentration of employment that generates cities.
+
+---
+
+### Question 5
+**In Brueckner's basket-weaving island economy, why does one 100-worker factory generate more total output than 100 single-worker backyard factories?**
+
+a) The single factory has privileged access to reed inputs unavailable to backyard producers  
+b) **Output per worker is higher in the large factory because division of labour allows each worker to specialise in a single production task rather than performing all steps alone** ✓  
+c) Government regulation prevents backyard production, forcing all workers into large establishments  
+d) The large factory pays lower wages, reducing cost and enabling higher output per unit of expenditure
+
+**Explanation:** With 100 workers, each can specialise — one gathers reeds, another prepares them, another weaves, another packages. Output per worker (measured as the slope of a line from the origin to the production function) is higher in the large factory. This illustrates division of labour as the fundamental mechanism behind scale economies: finer specialisation at larger scales raises efficiency.
+
+---
+
+### Question 6
+**What precisely distinguishes pecuniary agglomeration economies from technological agglomeration economies?**
+
+a) Pecuniary economies raise input productivity; technological economies reduce the price of inputs  
+b) **Pecuniary economies reduce the cost of inputs without affecting their productivity; technological economies raise input productivity without lowering input cost** ✓  
+c) Pecuniary economies apply exclusively to financial firms; technological economies apply to high-tech manufacturers only  
+d) Pecuniary economies are measurable with standard regression methods; technological economies remain purely theoretical
+
+**Explanation:** Pecuniary agglomeration economies make inputs cheaper — a large city's competitive labour market lowers hiring costs; many competing suppliers reduce business-service prices. Technological agglomeration economies make inputs more productive — knowledge spillovers among co-located firms increase output (e.g., patents per engineer) for any given input level, without changing what that input costs.
+
+---
+
+## Part C: Chapter 2 — Urban Spatial Structure (Brueckner)
+
+### Question 7
+**What is the fundamental equilibrium condition for consumer location in the monocentric city model, and why is it necessary?**
+
+a) All consumers must spend identical amounts on housing — otherwise developers would adjust prices to equalise expenditure  
+b) **All consumers must achieve the same utility regardless of where they live — otherwise residents in lower-utility areas would move to higher-utility ones, disrupting equilibrium** ✓  
+c) All consumers must live equidistant from the CBD to minimise average city-wide commuting cost  
+d) Housing prices must be uniform throughout the city to prevent speculative arbitrage between locations
+
+**Explanation:** Spatially uniform consumer utility is the core equilibrium condition. If any location offered higher utility, residents in lower-utility areas would move there — bidding up prices at the desirable location until utilities equalised everywhere. This condition generates the entire spatial structure: it forces housing prices, dwelling sizes, building heights, and population density all to vary systematically with distance from the CBD.
+
+---
+
+### Question 8
+**Why does the price per square foot of housing (p) necessarily decline as distance from the CBD (x) increases in the monocentric city model?**
+
+a) Building construction quality is lower in the suburbs because land is cheap and developers invest less in materials  
+b) **Commuting costs rise with x, reducing disposable income; a lower housing price per square foot compensates, keeping consumer utility uniform across locations** ✓  
+c) Suburban residents earn lower incomes and cannot pay high housing prices  
+d) Zoning regulations impose rent controls in suburban areas to prevent urban sprawl
+
+**Explanation:** Rising commuting costs with distance reduce disposable income. For consumers to remain equally well off at all locations — the equilibrium condition — housing must offer a compensating advantage at greater distances. Lower p per square foot is that compensating differential: it allows distant residents to buy more floor space with their reduced purchasing power, leaving them exactly as well off as central residents who pay higher prices for smaller apartments.
+
+---
+
+## Part D: Plots Without Houses (Asghar 2025)
+
+### Question 9
+**Pakistan consumes ~47 million tonnes of cement annually yet formal housing supply is ~11,000 units per year against demand of 350,000–400,000 units. What does Asghar identify as the core structural explanation?**
+
+a) Pakistan lacks sufficient construction materials and skilled tradespeople to build affordable housing at scale  
+b) **The plot economy — developers sell subdivided land rather than building dwellings — combined with zero capital-market-integrated housing developers, means high construction activity generates no housing for EWS/LIG households** ✓  
+c) Excessive government regulation of building permits chokes supply across all income groups  
+d) International cement companies export most of Pakistan's production, leaving insufficient material for residential construction
+
+**Explanation:** Asghar's diagnosis: construction activity is high but misallocated — cement goes into boundary walls, commercial plazas, and luxury villas, not affordable housing. Two structural failures explain this: (1) the plot economy model in which developers exit after selling plots with no dwelling ever constructed; and (2) zero PSX-listed housing developers capable of accessing equity capital and producing affordable supply at scale.
+
+---
+
+## Part E: Numerical Problems
+
+### Problem 1
+**Five-region model: θ = 8, T = 3, N = 1,000. What is the total cost of centralised production?**
+
+**Solution:**
+
+Total centralised cost = θN + (4T/5)N  
+= 8×1,000 + (4×3/5)×1,000  
+= 8,000 + 2,400  
+= **10,400**
+
+The 4T/5 term captures shipping to the four non-central regions (each receives N/5 units at per-unit cost T).
+
+---
+
+### Problem 2
+**Monocentric model: commuting cost z = $6/km/month; household floor space q = 600 sq ft. By how much does the equilibrium housing price ($/sq ft) fall per additional km from the CBD?**
+
+**Solution:**
+
+The bid-rent gradient is:  
+dp/dx = −z/q  
+= −6/600  
+= **−$0.010 per sq ft per km**
+
+Every extra km from the CBD raises commuting cost by $6/month; to keep utility constant that cost must be exactly offset by cheaper housing. With 600 sq ft consumed, the required price reduction is $6/600 = $0.01 per sq ft per km.
+
+---
+
+## Part F: Short Answer Questions
+
+### Question 1
+**Brueckner argues that scale economies alone can explain 'company towns' but not large metropolises like Chicago. What conceptual step — and what specific empirical evidence from patent citation research — closes that explanatory gap?**
+
+**Model Answer:**
+
+The missing concept is agglomeration economies, specifically technological agglomeration economies operating through knowledge spillovers. A single large employer (scale economies) creates at most a company town of tens of thousands — workers and the services they attract. A metropolis requires many independent firms to co-locate, each finding clustering rational because of external benefits from the cluster. 
+
+Jaffe, Trajtenberg, and Henderson (1993) provide the key empirical evidence: patent applications disproportionately cite earlier patents from the same city, showing that economically useful knowledge flows more easily across short geographic distances than long ones. Engineers at competing firms exchange ideas informally — in social settings, through job-hopping, at conferences — and this localised diffusion raises productivity, making the cluster self-reinforcing and generating the scale of employment concentration needed for a true metropolis.
+
+---
+
+### Question 2
+**Define 'localization economies' and 'urbanization economies' precisely, state which has stronger empirical support, and explain what this distinction implies for a knowledge-intensive firm choosing where to locate.**
+
+**Model Answer:**
+
+Localization economies are productivity gains a firm receives from co-location with a large concentration of employment in its own industry — the mechanisms are own-industry knowledge spillovers, a deep pool of industry-specific workers, and specialised input suppliers. 
+
+Urbanization economies are productivity gains from the total scale of a city's employment, regardless of industry composition. 
+
+Empirical evidence is much stronger for localization economies: studies consistently find productivity links to own-industry employment density, especially in knowledge-intensive sectors, while total-employment effects are weaker and less consistent. 
+
+For a knowledge-intensive firm this implies that locating in a city with a dense own-industry cluster — biotech in Boston, tech in San Francisco — generates more agglomeration benefit than simply choosing the largest city. Industry concentration, not raw city size, is the relevant metric for capturing agglomeration gains.
+
+---
+
+## References
+
+- Polèse, M. (2009). *The Wealth and Poverty of Regions: Why Cities Matter*
+- Brueckner, J. K. (2011). *Lectures on Urban Economics*
+- Asghar, Z. (2025). "Plots Without Houses: Pakistan's Housing Crisis"
+- Jaffe, A., Trajtenberg, M., & Henderson, R. (1993). Geographic localization of knowledge spillovers. *Quarterly Journal of Economics*
